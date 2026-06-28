@@ -62,5 +62,3 @@ build.bat
 | `src/lrc_api.h/cpp` | Загрузка текстов с Lrclib.net |
 | `src/discord_rpc.h/cpp` | Discord Rich Presence через IPC |
 | `src/art_fetcher.h/cpp` | Поиск обложек (mpris:artUrl + Deezer) |
-| `src/web_server.h/cpp` | HTTP-сервер для Web UI (SSE + статика) |
-| `web/` | Фронтенд: HTML, CSS, JS с анимированной лирикой |
